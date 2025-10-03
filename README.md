@@ -14,10 +14,13 @@ Projection mapping let's you transform ordinary objects into dynamic displays by
    - Open the software and click the **Video Output** icon, at the top left corner of the interface.  
      <img width="188" height="46" alt="Screenshot 2025-10-02 at 14 59 11" src="https://github.com/user-attachments/assets/dafe5ecd-4af8-454f-a3f2-c5d1e7a15264" />
 
-   - In the **Settings** tab on the left side of the interface, set the **Destination** to be your projector.  
+   - In the **Settings** tab, on the left side of the interface, set the **Destination** to be your projector.  
      <img width="461" height="297" alt="Screenshot 2025-10-02 at 14 59 47" src="https://github.com/user-attachments/assets/048bc1d4-e733-47e7-a040-1ecb39a69267" />
 
    - Make sure to match the resolution by clicking the two arrows icon next to **Output Size**.
+   - To project in **Full Screen** mode, click the central icon on the horizontal bar at the top of the interface.
+
+     <img width="28" height="31" alt="Screenshot 2025-10-02 at 15 00 08" src="https://github.com/user-attachments/assets/2ea1f52d-1515-447a-94e1-882dfa5f0551" />
 
 3. **Choose your Content**  
    - From the top left toolbar, click the **Media Library** icon.  
